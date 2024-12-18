@@ -2,7 +2,7 @@
      :house: Airbnb Listings Dashboard in Tableau
       <br />
       <hr />
-     :chart_with_upwards_trend: Data Visualization
+     📊 Data Visualization
 </h1>
 <h3>Introduction</h3>
 <p>The Airbnb Listings Dashboard is a comprehensive data visualization created in Tableau, showcasing insights from the 2016 Airbnb dataset for Seattle, Washington. The dataset comprises three tables: listings, reviews, and calendar, joined using the listingID. The dashboard provides an intuitive view of key metrics, such as average prices, listing distribution, and revenue trends, helping stakeholders better understand the dynamics of Airbnb rentals in Seattle.</p>
