@@ -6,7 +6,8 @@
 </h1>
 <h3>Introduction</h3>
 <p>The Airbnb Listings Dashboard is a comprehensive data visualization created in Tableau, showcasing insights from the 2016 Airbnb dataset for Seattle, Washington. The dataset comprises three tables: listings, reviews, and calendar, joined using the listingID. The dashboard provides an intuitive view of key metrics, such as average prices, listing distribution, and revenue trends, helping stakeholders better understand the dynamics of Airbnb rentals in Seattle.</p>
-<p>The dataset is available via the following link: <a href="https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset/data">Kaggle Link</a>. 
+<p>The dataset is available via the following link: <a href="https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset/data">Kaggle Link</a>.
+<p>Live Dashboard: <a href="https://public.tableau.com/views/AirbnbUSA2016_17343629238190/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Tableau Link</a></p>
   <img src="./outputs/dashboard.png">
 <h3>Key Visualizations and Insights</h3>
 <ol>
